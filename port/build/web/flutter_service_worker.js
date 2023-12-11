@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "64303ce0784aee0d05877fd331add8c8",
-"assets/AssetManifest.bin.json": "4d7631b5e07126fc47a66cd3eb5fa49d",
-"assets/AssetManifest.json": "66f586f12848872767a14dc4d00be3bc",
+const RESOURCES = {"assets/AssetManifest.bin": "ae8cb47f262b4724015c713bafc335d4",
+"assets/AssetManifest.bin.json": "7c873070a6849c39e0ad0a461f8f5fba",
+"assets/AssetManifest.json": "0fc9907a19f33539920dcc344a9b4b23",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "b4d322612566755d987a7f68081f6ebf",
 "assets/lib/images/aman.jpg": "b2ab527fca2d875eea2f3677b8f92f6e",
@@ -14,6 +14,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "64303ce0784aee0d05877fd331add8c8
 "assets/lib/images/cv.png": "2c56391d8d3bb3d6ee0257372c02e959",
 "assets/lib/images/danimage.jpg": "323402b2d5156f1d27140711b0af21a9",
 "assets/lib/images/emailicon.jpg": "fe8bc89ca26ee5aa571177369548b849",
+"assets/lib/images/figmatoflutter.png": "888b6865fc3f9e0f8c6cd83d93a2a72f",
 "assets/lib/images/fluttermobileApp.png": "4414a66a5d18e8494a21fd2015640321",
 "assets/lib/images/instagramicon.jpg": "4e94ccec2d8c402811ce7186c9d0cc52",
 "assets/lib/images/journey.png": "bb4f299414d44ad3224fd7aaa47f8fdd",
@@ -22,6 +23,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "64303ce0784aee0d05877fd331add8c8
 "assets/lib/images/mob22.jpg": "8e7e31653931f6a4a7675fe14aeb4cba",
 "assets/lib/images/mob333.jpg": "aa385a3c20a22c7f280350c8ee6cb511",
 "assets/lib/images/mobvideo.mp4": "78470cf47c52a0ea6ee776d84ba0688a",
+"assets/lib/images/newsaap.png": "52fc2f641b399a301932bc18e2a038ee",
+"assets/lib/images/newsapp.jpg": "e2c743420272075ee8e3b54528707d4b",
+"assets/lib/images/newsapp1.jpg": "2a6cfb6b2aa085c248827059ddc266f5",
 "assets/lib/images/pp.jpg": "af8ebe5a5d84a9dc09c5d44dbb2d7a3f",
 "assets/lib/images/pp1.jpg": "455dc68c746495bc17c3768c47449b84",
 "assets/lib/images/signinpage.png": "07caf389624139c1fb71cecc7b3aba3c",
@@ -29,6 +33,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "64303ce0784aee0d05877fd331add8c8
 "assets/lib/images/telegramicon.png": "0d919fb7bea09d153d988db605e06dcf",
 "assets/lib/images/tempo.png": "b57f2c970167ef2d861f392cf6c41d86",
 "assets/lib/images/upload.png": "7be9b9086a806e4e6fe56246d2b01952",
+"assets/lib/images/weatherApp.png": "c2e05119fd25839a23214f8bdac0832f",
+"assets/lib/images/weatherApp2.jpg": "5beddc61b661ec5c15b1d8b161a1783d",
+"assets/lib/images/weatherApp3.jpg": "12a1168a714a9542f251f2bce3281b56",
 "assets/lib/images/webapp.png": "7edaff194173390a69e892047d2596f8",
 "assets/NOTICES": "f456fd6217394594cc52fa26700d1648",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
@@ -46,10 +53,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "64303ce0784aee0d05877fd331add8c8
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "7c70ee409159ab5c62da03303d4f3442",
-"/": "7c70ee409159ab5c62da03303d4f3442",
-"main.dart.js": "d4b0a6b7ba706a63f696a6ad495aaead",
-"manifest.json": "44608ddcedf3810473068bf0157d6f9b",
+"index.html": "d888ca4293a76a6ff644ebc5e98ba20a",
+"/": "d888ca4293a76a6ff644ebc5e98ba20a",
+"main.dart.js": "cfd32af2c5f1412f27e2bfe525bdfc5e",
+"manifest.json": "6615a17ff8c9bad1fbecd8bbe087a614",
 "version.json": "93d939be7666eea4b51f79298486318a"};
 // The application shell files that are downloaded before a service worker can
 // start.
